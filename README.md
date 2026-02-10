@@ -1,6 +1,6 @@
 # 🎵 Omnizart Colab Fixed (2026.01 Edition)
 
-[![Open In Colab](https://github.com/ycc90123/omnizart-colab-fixed/blob/main/omnizart_colab_fixed.ipynb)
+![Open In Colab](https://github.com/ycc90123/omnizart-colab-fixed/blob/main/omnizart_colab_fixed.ipynb)
 ![Status](https://img.shields.io/badge/Status-Fixed-green)
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 
