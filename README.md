@@ -1,7 +1,6 @@
 # 🎵 Omnizart Colab Fixed (2026.01 Edition)
 
-![Open In Colab](https://github.com/ycc90123/omnizart-colab-fixed/blob/main/omnizart_colab_fixed.ipynb)
-![Status](https://img.shields.io/badge/Status-Fixed-green)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ycc90123/omnizart-colab-fixed/blob/main/omnizart_colab_fixed.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 
 這是一個經過修復的 **Omnizart** Google Colab 版本。
